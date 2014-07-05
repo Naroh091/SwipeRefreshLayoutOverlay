@@ -1,5 +1,7 @@
 # SwipeRefreshLayoutOverlay
 
+![alt text](http://cl.ly/image/1h0U252w0S1Q/swiperefresh.png "SwipeRefreshLayoutOverlay")
+
 ## English
 
 ### What is this?
