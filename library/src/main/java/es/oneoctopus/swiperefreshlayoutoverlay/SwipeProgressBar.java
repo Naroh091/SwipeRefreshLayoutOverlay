@@ -169,7 +169,7 @@ final class SwipeProgressBar {
                 float pct = (finishProgress / 100f);
                 // Radius of the circle is half of the screen.
                 float clearRadius = width / 2 * INTERPOLATOR.getInterpolation(pct);
-                mClipRect.set(cx - clearRadius, 0, cx + clearRadius, height);
+                mClipRect.set(cx - clearRadius, marginTop, cx + clearRadius, height + marginTop);
                 canvas.saveLayerAlpha(mClipRect, 0, 0);
                 // Only draw the trigger if there is a space in the center of
                 // this refreshing view that needs to be filled in by the
