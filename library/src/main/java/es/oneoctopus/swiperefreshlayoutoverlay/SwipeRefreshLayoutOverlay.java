@@ -336,6 +336,8 @@ public class SwipeRefreshLayoutOverlay extends ViewGroup {
      */
     public void setTopMargin(int margin) {
         this.marginTop = margin;
+        mProgressBar.setMarginTop(marginTop);
+        mProgressBar.setBounds(0, 0, getWidth(), mProgressBarHeight);
     }
 
     @Override
