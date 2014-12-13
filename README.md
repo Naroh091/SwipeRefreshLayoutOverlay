@@ -2,6 +2,12 @@
 
 ![alt text](http://cl.ly/image/1h0U252w0S1Q/swiperefresh.png "SwipeRefreshLayoutOverlay")
 
+## Warning! ¡Atención!
+
+This library is not adapted to fit Material guidelines. Use it only if you want the <21 support library SwipeRefreshLayout.
+
+Esta biblioteca no está adaptada a las guías de diseño de Material. Úsala sólo si quieres el SwipeRefreshLayout de la biblioteca de soporte pre-21.
+
 ## English
 
 ### What is this?
