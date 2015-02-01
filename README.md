@@ -4,9 +4,9 @@
 
 ## Warning! ¡Atención!
 
-This library is not adapted to fit Material guidelines. Use it only if you want the <21 support library SwipeRefreshLayout.
+This library is now discontinued and you should only use it if you want to use the <21 support library in your application. In other case, the new support library SwipeRefreshLayout contains a new method, setProgressViewOffset, to set the view offset.
 
-Esta biblioteca no está adaptada a las guías de diseño de Material. Úsala sólo si quieres el SwipeRefreshLayout de la biblioteca de soporte pre-21.
+Esta biblioteca ha sido descontinuada y sólo deberías usarla si quieres utilizar la versión previa a la API 21 de la biblioteca de soporte. Para cualquier otro caso el SwipeRefreshLayout de la nueva biblioteca de soporte contiene el método setProgressViewOffset con el cual podrás ajustar el margen de la vista.
 
 ## English
 
